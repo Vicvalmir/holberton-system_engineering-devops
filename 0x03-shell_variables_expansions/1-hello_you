@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "hello vicvalmir\n"
+printf "hello trusty-64\n"
