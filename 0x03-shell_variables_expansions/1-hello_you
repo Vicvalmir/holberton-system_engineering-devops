@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "hello trusty-64\n"
+echo -e "hello $USER"
